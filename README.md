@@ -38,7 +38,7 @@ E
 3.
 A
 Chapter 2
-1. Question 4
+4. Question 4
 A) Answer 1
 B) Answer 2
 C) Answer 3
