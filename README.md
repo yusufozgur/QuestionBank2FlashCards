@@ -44,6 +44,10 @@ B) Answer 2
 C) Answer 3
 D) Answer 4
 E) Answer 5
+
+Answer Key
+1.
+B
 ```
 
 Then the script converts it to a text file such as the following for each chapter
